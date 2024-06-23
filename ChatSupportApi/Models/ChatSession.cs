@@ -1,5 +1,8 @@
 ﻿namespace ChatSupportApi.Models
 {
+    /// <summary>
+    /// Class ChatSession
+    /// </summary>
     public class ChatSession
     {
         public int Id { get; set; }

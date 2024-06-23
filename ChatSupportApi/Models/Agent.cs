@@ -1,5 +1,8 @@
 ﻿namespace ChatSupportApi.Models
 {
+    /// <summary>
+    /// Agent Class
+    /// </summary>
     public class Agent
     {
         public int Id { get; set; }
